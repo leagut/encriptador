@@ -1,0 +1,31 @@
+main{
+    /* border: 1px solid seagreen; */
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    justify-content: center;
+    height: 70vh;
+    margin-top: 5%;
+}
+
+
+.primera{
+    width: 300px;
+}
+
+body{
+    background-color: rgb(87, 138, 233);
+}
+
+.mensaje{
+    position: relative;
+    background-image:url("./imagenes/muñeco.png") ;
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 90%;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
